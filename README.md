@@ -32,7 +32,7 @@ To install the application locally:
 ## PWA Installation
 To install the PWA:
 1. Navigate to the [live URL](https://text-editor-pwa-production.up.railway.app/) of the application.
-2. Look for a browser prompt or icon in the address bar indicating that the app can be installed.
+2. Look for an install button either in the URL field or on the left side of the Navbar, click it!
 3. Follow the browser’s instructions to complete the installation.
 4. Once installed, the app will be available on your device like any other installed application.
 
