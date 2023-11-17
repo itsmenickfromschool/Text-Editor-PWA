@@ -53,7 +53,7 @@ Developed by [Nicholas Burr](https://github.com/itsmenickfromschool) with starte
 
 ## Questions
 For questions and inquiries, contact me at:
-- GitHub Profile: [Your GitHub Profile](https://github.com/itsmenickfromschool)
+-[GitHub](https://github.com/itsmenickfromschool)
 -[Email](mailto:nicholasstclairburr@gmail.com)
 
 ## Screenshots
