@@ -57,7 +57,7 @@ For questions and inquiries, contact me at:
 -[Email](mailto:nicholasstclairburr@gmail.com)
 
 ## Screenshots
-[Main Page](./screenshots/mainsite.png)
-[Install](./screenshots/install.png)
-[Installed Locally](./screenshots/beans.png)
+![Main Page](./screenshots/mainsite.png)
+![Install](./screenshots/install.png)
+![Installed Locally](./screenshots/beans.png)
 
